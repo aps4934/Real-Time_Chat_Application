@@ -2,7 +2,7 @@
 
 NexusChat is a high-performance, real-time messaging platform designed for the modern web. Built with a focus on **speed**, **scalability**, and **premium aesthetics**, it supports 1,000+ concurrent users with sub-millisecond event broadcasting.
 
-![NexusChat UI Preview](/artifacts/nexus_preview.png)
+![NexusChat UI Preview](./assets/nexus_preview.png)
 
 ## ✨ Key Features
 
