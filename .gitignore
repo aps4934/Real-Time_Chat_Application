@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+dist/
+build/
+.env
+
+# Local Database
+*.db
+*.db-wal
+*.db-shm
+
+# IDE/System
+.vscode/
+.idea/
+.DS_Store
+*.log
+npm-debug.log*
+
+# Artifacts
+artifacts/
+temp/
+/tmp/
